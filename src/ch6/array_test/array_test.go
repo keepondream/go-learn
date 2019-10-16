@@ -13,7 +13,7 @@ func TestArrayInit(t *testing.T) {
 
 func TestArrayTravel(t *testing.T) {
 	// arr3 := [...]int{1, 3, 4, 5}
-	// for index := 0; index < len(arr3); index++ {
+	// FOR INdex := 0; index < len(arr3); index++ {
 	// 	t.Log(arr3[index])
 	// }
 
